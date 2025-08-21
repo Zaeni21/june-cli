@@ -8,14 +8,14 @@ def ask_june(prompt, context):
     page.fill("textarea", prompt)
     page.click("button:has-text('Send')")
 
-    # tunggu jawaban muncul (⚠️ sesuaikan selector-nya dengan DOM June)
-    page.wait_for_selector(".response")
+    # tunggu jawaban muncul
+    page.wait_for_selector(".response")  # ⚠️ pastikan sesuai selector di June
     answer = page.inner_text(".response")
     page.close()
     return answer
 
 if __name__ == "__main__":
-    # load daftar pertanyaan
+    # load daftar pertanyaan dari file
     with open("questions.txt", "r") as f:
         questions = [q.strip() for q in f.readlines() if q.strip()]
 
@@ -34,9 +34,13 @@ if __name__ == "__main__":
             try:
                 answer = ask_june(prompt, context)
                 print(f"[A]: {answer}")
+
+                # 🔥 save ke log
+                with open("answers.log", "a", encoding="utf-8") as log:
+                    log.write(f"[{datetime.now()}] Q: {prompt}\n[A]: {answer}\n\n")
+
             except Exception as e:
                 print("⚠️ Error:", e)
 
             # geser ke pertanyaan berikutnya
-            idx = (idx + 1) % len(questions)  # kalau udah habis, balik ke awal
-
+            idx = (idx + 1) % len(questions)
