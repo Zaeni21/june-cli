@@ -1,1 +1,216 @@
-
+Apa itu MEV dan gimana cara kerjanya?
+Jelaskan mekanisme rollup zk vs optimistic.
+Bagaimana cara kerja Uniswap V3 secara detail?
+Apa bedanya L1 dan L2 blockchain?
+Jelaskan konsep modular blockchain dan manfaatnya.
+Bagaimana cara kerja Proof of Stake dibanding Proof of Work?
+Kenapa sharding penting untuk skalabilitas blockchain?
+Apa perbedaan zk-SNARK dan zk-STARK?
+Bagaimana cara membuat smart contract ERC20 sederhana di Solidity?
+Jelaskan apa itu NFT dan use case di luar seni digital.
+Apa itu DAO dan bagaimana cara kerjanya?
+Kenapa stablecoin penting dalam ekosistem DeFi?
+Jelaskan konsep yield farming dan risikonya.
+Apa itu impermanent loss di AMM?
+Bagaimana cara kerja flash loan?
+Apa itu cross-chain bridge dan risikonya?
+Apa perbedaan Cosmos dan Polkadot?
+Bagaimana cara kerja Celestia sebagai data availability layer?
+Jelaskan konsep modular execution layer.
+Apa itu danksharding di Ethereum roadmap?
+Bagaimana cara kerja optimistic rollup fraud proof?
+Apa itu account abstraction di Ethereum?
+Bagaimana cara kerja Uniswap V4 hooks?
+Kenapa restaking di EigenLayer jadi tren baru?
+Apa itu liquid staking derivative (LSD)?
+Bagaimana cara kerja MEV-boost di Ethereum?
+Kenapa AI dan blockchain sering digabungkan?
+Bagaimana cara kerja GPT dan LLM secara sederhana?
+Apa itu attention mechanism di Transformer?
+Kenapa fine-tuning LLM penting?
+Bagaimana cara kerja retrieval-augmented generation (RAG)?
+Apa perbedaan supervised vs unsupervised learning?
+Apa itu reinforcement learning with human feedback (RLHF)?
+Bagaimana cara membangun chatbot dengan Python?
+Jelaskan perbedaan prompt engineering dan prompt tuning.
+Bagaimana cara kerja vector database untuk AI?
+Apa itu embeddings dalam NLP?
+Jelaskan konsep tokenization di LLM.
+Bagaimana cara kerja zero-shot dan few-shot learning?
+Apa itu multi-modal AI?
+Kenapa GPU penting untuk AI training?
+Bagaimana cara kerja distributed training?
+Apa itu parameter efficient fine tuning (PEFT)?
+Bagaimana cara bikin API sederhana dengan FastAPI?
+Apa itu microservices dan keuntungannya?
+Jelaskan konsep containerization dengan Docker.
+Apa perbedaan Kubernetes dan Docker Swarm?
+Bagaimana cara scaling aplikasi web di GCP?
+Apa itu serverless computing?
+Kenapa CI/CD penting dalam DevOps?
+Bagaimana cara kerja Git rebase vs merge?
+Apa itu GraphQL dan perbedaannya dengan REST API?
+Bagaimana cara kerja WebSocket dibanding HTTP biasa?
+Apa itu event-driven architecture?
+Kenapa design pattern penting dalam software engineering?
+Bagaimana cara bikin unit test di Python?
+Jelaskan SOLID principles dalam OOP.
+Apa itu clean architecture?
+Kenapa functional programming semakin populer?
+Apa itu monad di Haskell?
+Jelaskan konsep reactive programming.
+Bagaimana cara kerja consensus Byzantine Fault Tolerance?
+Apa itu Avalanche consensus?
+Kenapa Algorand pakai Pure Proof of Stake?
+Bagaimana cara kerja Tendermint di Cosmos?
+Apa itu slashing di PoS blockchain?
+Kenapa cryptography penting di blockchain?
+Jelaskan konsep elliptic curve cryptography.
+Apa itu homomorphic encryption?
+Bagaimana cara kerja zk proof di kehidupan nyata?
+Apa itu trusted execution environment?
+Kenapa quantum computing bisa ancam blockchain?
+Apa itu lattice-based cryptography?
+Bagaimana cara kerja post-quantum cryptography?
+Apa itu IPFS dan Filecoin?
+Kenapa storage desentralisasi penting?
+Bagaimana cara kerja Arweave?
+Apa itu decentralized identity (DID)?
+Kenapa self-sovereign identity penting?
+Bagaimana cara kerja soulbound token?
+Apa itu verifiable credentials?
+Kenapa AI agent bisa digabung dengan blockchain?
+Bagaimana cara kerja autonomous agent di DeFi?
+Apa itu bonding curve dalam tokenomics?
+Kenapa governance token penting di DAO?
+Bagaimana cara bikin token di Solidity?
+Apa itu tokenomics inflasi vs deflasi?
+Jelaskan konsep fee burning (contoh EIP-1559).
+Bagaimana cara kerja layer zero protocol?
+Apa itu interoperability blockchain?
+Kenapa cross-chain risk tinggi?
+Bagaimana cara kerja Cosmos IBC?
+Apa itu Polkadot parachain?
+Bagaimana cara kerja rollup aggregator?
+Kenapa shared sequencer jadi tren di L2?
+Apa itu restaking marketplace?
+Bagaimana cara kerja modular security?
+Kenapa decentralization trade-off dengan scalability?
+Apa itu trilemma blockchain?
+Bagaimana cara kerja social consensus?
+Kenapa Bitcoin disebut digital gold?
+Apa itu Lightning Network?
+Bagaimana cara kerja payment channel?
+Kenapa stablecoin algorithmic sering gagal?
+Apa itu seigniorage stablecoin?
+Jelaskan kasus kegagalan Terra Luna.
+Bagaimana cara kerja DEX aggregator?
+Apa itu RFQ model di DeFi trading?
+Bagaimana cara kerja order flow auction?
+Kenapa Uniswap lebih populer dari Curve?
+Apa itu concentrated liquidity?
+Bagaimana cara kerja AMM hybrid?
+Kenapa MEV bisa merusak fairness DeFi?
+Apa itu frontrunning dan sandwich attack?
+Bagaimana cara mitigasi MEV?
+Apa itu mev-share dari Flashbots?
+Kenapa AI butuh alignment dengan manusia?
+Bagaimana cara kerja AI agent planner?
+Apa itu self-play dalam reinforcement learning?
+Kenapa interpretability AI penting?
+Apa itu explainable AI?
+Bagaimana cara kerja AI safety research?
+Apa itu alignment tax?
+Kenapa AGI dianggap berbahaya?
+Apa itu singularity hypothesis?
+Bagaimana cara kerja AI governance?
+Apa itu compute overhang dalam AI?
+Kenapa inference cost jadi bottleneck AI?
+Bagaimana cara kerja distillation model?
+Apa itu LoRA fine tuning?
+Bagaimana cara kerja RNN dibanding Transformer?
+Apa itu auto-regressive model?
+Kenapa scaling law penting di AI?
+Apa itu chain-of-thought reasoning?
+Bagaimana cara kerja tool-using AI?
+Apa itu autonomous agent framework?
+Kenapa open-source LLM penting?
+Bagaimana cara kerja quantization model?
+Apa itu mixture of experts?
+Kenapa context length jadi penting di LLM?
+Apa itu sliding window attention?
+Bagaimana cara kerja recurrent memory AI?
+Kenapa vector DB jadi infrastruktur penting AI?
+Apa itu Pinecone dan Weaviate?
+Bagaimana cara kerja FAISS?
+Kenapa embeddings pakai cosine similarity?
+Apa itu knowledge graph dalam AI?
+Bagaimana cara kerja ontology di AI?
+Apa itu symbolic reasoning?
+Kenapa hybrid AI system diperlukan?
+Bagaimana cara kerja neurosymbolic AI?
+Apa itu federated learning?
+Kenapa data privacy penting di AI?
+Apa itu differential privacy?
+Bagaimana cara kerja synthetic data?
+Kenapa dataset quality krusial?
+Apa itu data poisoning attack?
+Bagaimana cara mitigasi adversarial example?
+Apa itu red teaming dalam AI?
+Kenapa interpretasi model black box susah?
+Apa itu model checkpointing?
+Bagaimana cara kerja model parallelism?
+Apa itu tensor parallelism?
+Kenapa inference engine penting?
+Apa itu ONNX?
+Bagaimana cara kerja TorchScript?
+Apa itu quantization aware training?
+Kenapa hardware acceleration penting di AI?
+Apa itu TPU dibanding GPU?
+Bagaimana cara kerja FPGA untuk AI?
+Kenapa inference latency penting?
+Apa itu batching di inference?
+Bagaimana cara kerja KV cache di LLM?
+Kenapa speculative decoding dipakai?
+Apa itu beam search?
+Bagaimana cara kerja nucleus sampling?
+Apa itu temperature dalam sampling?
+Kenapa prompt engineering bisa ngaruh output?
+Apa itu system prompt di AI?
+Bagaimana cara kerja jailbreak prompt?
+Apa itu adversarial prompting?
+Kenapa RLHF jadi standar training LLM?
+Apa itu preference model?
+Bagaimana cara kerja constitutional AI?
+Apa itu model alignment via debate?
+Kenapa interpretability AI susah?
+Apa itu causal inference dalam AI?
+Bagaimana cara kerja structural causal model?
+Kenapa correlation bukan causation?
+Apa itu counterfactual reasoning?
+Bagaimana cara kerja Bayesian network?
+Apa itu probabilistic programming?
+Kenapa decision making AI penting?
+Apa itu multi-agent simulation?
+Bagaimana cara kerja swarm intelligence?
+Apa itu evolutionary algorithm?
+Kenapa emergent behavior bisa muncul di AI?
+Apa itu scaling hypothesis?
+Bagaimana cara kerja parameter sharing?
+Apa itu meta-learning?
+Kenapa few-shot generalization penting?
+Apa itu transfer learning?
+Bagaimana cara kerja continual learning?
+Apa itu catastrophic forgetting?
+Kenapa memory mechanism penting di AI?
+Apa itu external memory di LLM?
+Bagaimana cara kerja retrieval plugin?
+Kenapa grounding penting di AI?
+Apa itu semantic parsing?
+Bagaimana cara kerja structured output?
+Apa itu function calling di LLM?
+Kenapa tool use bikin LLM lebih berguna?
+Apa itu autonomous agent loop?
+Bagaimana cara kerja ReAct framework?
+Apa itu planner-executor pattern?
+Kenapa chain-of-thought bikin reasoning lebih baik?
